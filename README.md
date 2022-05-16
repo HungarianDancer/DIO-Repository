@@ -1,2 +1,2 @@
 # DIO-Repository
-Desafio de código DIO
+Desafio de código DIO, acompanhamento de estudos.
